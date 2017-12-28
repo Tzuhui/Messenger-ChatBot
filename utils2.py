@@ -1,7 +1,7 @@
 from wit import Wit 
 import random
 
-wit_access_token = "K27PHQ5XVVH5RPDV56EZQS4IYR5ONUMH"
+wit_access_token = "YOUR_WIT.AI_TOKEN"
 client = Wit(access_token = wit_access_token) 
 
 def wit_response2(message_text):
